@@ -6,6 +6,21 @@ import android.os.Bundle;
 
 
 /*****added the comment line for testing the application commmit on github
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
