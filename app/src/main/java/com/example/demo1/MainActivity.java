@@ -5,8 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 
-/*****asdasdasdasdasdasd
- * changes done   done  done
+/*****added the comment line for testing the application commmit on github
  */
 public class MainActivity extends AppCompatActivity {
 
